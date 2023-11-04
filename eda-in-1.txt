@@ -1,0 +1,3 @@
+Insight 1: You can have a PhD and still be unmature.
+Insight 2: Income has high variance. std = 25173.076660901403.
+Insight 3: MntMeatProducts and NumCatalogPurchases are highly correlated, corr = 0.7238265908738767.
